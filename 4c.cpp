@@ -33,3 +33,21 @@ int main() {
     return 0;
 
 }
+
+
+Child Process Continues......
+Child Process ID: 74159
+Child's Parent ID: 74158
+Child Process ID: 74159
+Child's Parent ID: 74158
+Child Process ID: 74159
+Child's Parent ID: 74158
+Child's Process ends.............
+Parent's Process continues..........
+Parent's Process ID: 74158
+Parent's Parent ID: 74143
+Parent's Process ID: 74158
+Parent's Parent ID: 74143
+Parent's Process ID: 74158
+Parent's Parent ID: 74143
+Parent's Process ends........
