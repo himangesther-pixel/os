@@ -24,3 +24,9 @@ int main() {
 
     return 0;
 }
+
+
+Child Process: PID = 73524
+Child's Parent Process: PID = 73517
+Child Process: PID = 73525
+Child's Parent Process: PID = 73524
