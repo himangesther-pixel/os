@@ -52,3 +52,9 @@ int main() {
 
     return 0;
 }
+
+
+Enter source file name: 21
+Enter destination file name: 12
+Error in opening source file!
+
