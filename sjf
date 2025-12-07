@@ -76,5 +76,19 @@ for i in range(n):
 sjf_scheduling(processes, n, arrival_time, burst_time)
 
 
+Enter number of processes: 3
+Enter arrival time of P1: 5
+Enter burst time of P1: 2
+Enter arrival time of P2: 5
+Enter burst time of P2: 8
+Enter arrival time of P3: 4
+Enter burst time of P3: 3
 
+Process	Arrival	Burst	Waiting	Turnaround
+P1	5	2	2	4
+P2	5	8	4	12
+P3	4	3	0	3
+
+Average Waiting Time: 2.00
+Average Turnaround Time: 6.33
 
